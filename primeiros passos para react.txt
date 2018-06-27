@@ -1,0 +1,71 @@
+Microsoft Windows [versão 10.0.17134.112]
+(c) 2018 Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\rackadm038>npm -v
+6.1.0
+
+C:\Users\rackadm038>node -v
+v8.9.3
+
+C:\Users\rackadm038>cd Desktop
+
+C:\Users\rackadm038\Desktop>cd projeto403
+
+C:\Users\rackadm038\Desktop\projeto403>npm install -g create-react-app
+C:\Users\rackadm038\AppData\Roaming\npm\create-react-app -> C:\Users\rackadm038\AppData\Roaming\npm\node_modules\create-react-app\index.js
++ create-react-app@1.5.2
+added 67 packages from 20 contributors in 5.262s
+
+C:\Users\rackadm038\Desktop\projeto403>dir
+ O volume na unidade C é Windows
+ O Número de Série do Volume é 6074-5E54
+
+ Pasta de C:\Users\rackadm038\Desktop\projeto403
+
+27/06/2018  08:11    <DIR>          .
+27/06/2018  08:11    <DIR>          ..
+               0 arquivo(s)              0 bytes
+               2 pasta(s)   195.170.156.544 bytes disponíveis
+
+C:\Users\rackadm038\Desktop\projeto403>create-react-app teste
+
+Creating a new React app in C:\Users\rackadm038\Desktop\projeto403\teste.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts...
+
+
+> uglifyjs-webpack-plugin@0.4.6 postinstall C:\Users\rackadm038\Desktop\projeto403\teste\node_modules\uglifyjs-webpack-plugin
+> node lib/post_install.js
+
++ react@16.4.1
++ react-scripts@1.1.4
++ react-dom@16.4.1
+added 1321 packages from 812 contributors and audited 14307 packages in 92.51s
+found 0 vulnerabilities
+
+
+Success! Created teste at C:\Users\rackadm038\Desktop\projeto403\teste
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd teste
+  npm start
+
+Happy hacking!
+
+C:\Users\rackadm038\Desktop\projeto403>
